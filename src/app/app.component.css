@@ -1,0 +1,20 @@
+.login-wrapper {
+  width: 31em;
+  margin: 0 auto;
+  padding: 50px;
+  margin-top: 9%;
+  border-radius: 10px;
+  border: 2px solid #e7e2e2;
+}
+
+.login-container {
+  padding: 12px 0;
+}
+
+.button-wrapper {
+  text-align: right;
+}
+
+.login-status {
+  text-align: center;
+}
